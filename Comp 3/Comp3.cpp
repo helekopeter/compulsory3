@@ -1,5 +1,5 @@
 #pragma warning(disable : 4996) //i got a warning stopping me from useing something in ctime because its
-                                //depricated/unsafe. This will ignore it. Is that good, probably not. Oh well
+                                //depricated/unsafe. This will ignore it.
 #include<iostream>
 #include <ctime>
 #include"Comp3.h"
